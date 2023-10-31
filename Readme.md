@@ -1,5 +1,9 @@
 # Book API
 
+## Video demonstration
+
+https://youtu.be/bhAvIb4dtH0
+
 ## API Endpoints and Usage
 
 - `POST /books`: Create a new book
